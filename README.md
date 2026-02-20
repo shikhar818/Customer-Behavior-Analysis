@@ -111,39 +111,56 @@ Ten business questions were answered using SQL, covering revenue analysis, custo
 
   ![Answer Preview](sql/answers/Q1.png)
 
-
+| # | Question |
+|---|---|
 | Q2 | Customers who used a discount but spent above average |
 
 ![Answer Preview](sql/answers/Q2.png)
 
+| # | Question |
+|---|---|
 | Q3 | Top 5 products by average review rating |
 
 ![Answer Preview](sql/answers/Q3.png)
 
+| # | Question |
+|---|---|
 | Q4 | Average purchase amount: Standard vs. Express shipping |
 
 ![Answer Preview](sql/answers/Q4.png)
 
+| # | Question |
+|---|---|
 | Q5 | Do subscribers spend more? Revenue & avg spend comparison |
 
 ![Answer Preview](sql/answers/Q5.png)
 
+| # | Question |
+|---|---|
 | Q6 | Top 5 products with the highest discount usage rate |
 
 ![Answer Preview](sql/answers/Q6.png)
 
+| # | Question |
+|---|---|
 | Q7 | Customer segmentation: New, Returning, Loyal |
 
 ![Answer Preview](sql/answers/Q7.png)
 
+| # | Question |
+|---|---|
 | Q8 | Top 3 most purchased products per category (Window Function) |
 
 ![Answer Preview](sql/answers/Q8.png)
 
+| # | Question |
+|---|---|
 | Q9 | Are repeat buyers (5+ purchases) more likely to subscribe? |
 
 ![Answer Preview](sql/answers/Q9.png)
 
+| # | Question |
+|---|---|
 | Q10 | Revenue contribution by age group |
 
 ![Answer Preview](sql/answers/Q10.png)
