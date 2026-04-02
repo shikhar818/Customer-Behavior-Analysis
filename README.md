@@ -193,16 +193,6 @@ The interactive dashboard features slicers for **Subscription Status**, **Gender
 
 ---
 
-## 💡 Key Findings
-
-- **Subscribers** have a higher average spend than non-subscribers, confirming subscription programs drive value
-- **Repeat buyers** (5+ purchases) show a strong correlation with subscription status
-- **Discounts** don't significantly reduce spend — discounted customers still meet or exceed the average purchase amount
-- **Clothing** dominates all categories in both volume and revenue
-- **Blouses, Jewelry, and Pants** rank among the highest-rated products by review score
-
----
-
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
