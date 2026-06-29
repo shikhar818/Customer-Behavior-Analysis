@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Retail Sales & Customer Analytics
 
 > A full-stack data analytics project combining **SQL**, **Python**, and **Power BI** to extract actionable insights from retail customer data.
 
